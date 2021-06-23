@@ -20,5 +20,5 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
    ![Langkah 5](https://user-images.githubusercontent.com/59683573/123035553-b8841e00-d415-11eb-8cdf-cc979135fbbd.png)
 
 # Pertanyaan dan Tugas
-Membuat Tampilan menu yang sudah ada.
+> Membuat Tampilan menu yang sudah ada.
 ![Langkah 6](https://user-images.githubusercontent.com/59683573/123035691-eec19d80-d415-11eb-9f0f-5b05bf267d47.png)
